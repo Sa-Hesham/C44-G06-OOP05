@@ -1,4 +1,5 @@
 ﻿using assignment5.classes;
+using assignment5.interfaces;
 
 namespace assignment5
 {
@@ -84,6 +85,15 @@ namespace assignment5
             //Rectangle rectngle = new Rectangle(10,20);
             //circle.DisplayInfo();
             //rectngle.DisplayInfo();
+
+
+
+            //q2
+            //IAuthService authService = new BasicAuth();
+            //bool IsAuth = authService.authorizeUser("sayed", "admin");
+            //bool isauthorized = authService.AuthenticateUser("hehsam", "123456");
+            //Console.WriteLine($"user is authentcation {IsAuth}");
+            //Console.WriteLine($" user isauthorized  {isauthorized} ");
 
             #endregion
 
