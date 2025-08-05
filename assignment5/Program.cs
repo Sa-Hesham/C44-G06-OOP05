@@ -1,4 +1,6 @@
-﻿namespace assignment5
+﻿using assignment5.classes;
+
+namespace assignment5
 {
     internal class Program
     {
@@ -60,7 +62,7 @@
 
             //            Question 10:
             //How can a C# class implement multiple interfaces?
-           // c) By separating interface names with commas
+            // c) By separating interface names with commas
 
 
 
@@ -71,6 +73,17 @@
 
 
 
+
+            #endregion
+
+
+            #region part2
+
+            //Q1
+            //Circle circle =new Circle(5);
+            //Rectangle rectngle = new Rectangle(10,20);
+            //circle.DisplayInfo();
+            //rectngle.DisplayInfo();
 
             #endregion
 
